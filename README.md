@@ -5,18 +5,18 @@ This Python script manages a simple system for adding and displaying details of 
 ## **College Management**:
 Create colleges with unique IDs.
 
-##**Student & Teacher Management**:
+## **Student & Teacher Management**:
 Add students and teachers to specific colleges.
 
-##**OTP Verification**: 
+## **OTP Verification**: 
 An OTP is sent to the email address of students and teachers for authentication during the addition process.
 
-##**Display Details**:
+## **Display Details**:
 View details of all students and teachers in a college.
 
 The code uses the smtplib library to send OTP emails via Gmail's SMTP server and random for OTP generation.
 
-#**Key Technologies**:
+# **Key Technologies**:
 Python
 SMTP (Email)
 Object-Oriented Programming (OOP)
